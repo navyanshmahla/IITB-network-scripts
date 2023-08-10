@@ -1,0 +1,18 @@
+,Hostel No.,Wing/Floor,DHCP IP Pool,Subnet Mask,Default Gateway,DNS Server,Wing
+0,,,,,,,--select--
+1,Hostel 02,"Wing 1 Left, Floor 0,1",10.2.32.0 - 10.2.63.255,255.255.224.0,10.2.40.250,10.200.1.11,"Wing 1 Left, Floor 0,1"
+2,Hostel 02,"Wing 1 Left, Floor 2",10.2.32.0 - 10.2.63.255,255.255.224.0,10.2.40.250,10.200.1.11,"Wing 1 Left, Floor 2"
+3,Hostel 02,"Wing 1 Right, Floor 0,1",10.2.0.0 - 10.2.31.255,255.255.224.0,10.2.10.250,10.200.1.11,"Wing 1 Right, Floor 0,1"
+4,Hostel 02,"Wing 1 Right, Floor 2",10.2.0.0 - 10.2.31.255,255.255.224.0,10.2.10.250,10.200.1.11,"Wing 1 Right, Floor 2"
+5,Hostel 02,"Wing 2 Left, Floor 0,1",10.2.96.0 - 10.2.127.255,255.255.224.0,10.2.100.250,10.200.1.11,"Wing 2 Left, Floor 0,1"
+6,Hostel 02,"Wing 2 Left, Floor 2",10.2.96.0 - 10.2.127.255,255.255.224.0,10.2.100.250,10.200.1.11,"Wing 2 Left, Floor 2"
+7,Hostel 02,"Wing 2 Right, Floor 0,1",10.2.64.0 - 10.2.95.255,255.255.224.0,10.2.70.250,10.200.1.11,"Wing 2 Right, Floor 0,1"
+8,Hostel 02,"Wing 2 Right, Floor 2",10.2.64.0 - 10.2.95.255,255.255.224.0,10.2.70.250,10.200.1.11,"Wing 2 Right, Floor 2"
+9,Hostel 02,"Wing 3 Left, Floor 0,1",10.2.160.0 - 10.2.191.255,255.255.224.0,10.2.160.250,10.200.1.11,"Wing 3 Left, Floor 0,1"
+10,Hostel 02,"Wing 3 Left, Floor 2",10.2.160.0 - 10.2.191.255,255.255.224.0,10.2.160.250,10.200.1.11,"Wing 3 Left, Floor 2"
+11,Hostel 02,"Wing 3 Right, Floor 0,1",10.2.128.0 - 10.2.159.255,255.255.224.0,10.2.130.250,10.200.1.11,"Wing 3 Right, Floor 0,1"
+12,Hostel 02,"Wing 3 Right, Floor 2",10.2.128.0 - 10.2.159.255,255.255.224.0,10.2.130.250,10.200.1.11,"Wing 3 Right, Floor 2"
+13,Hostel 02,"Wing 4 Left, Floor 0,1",10.2.224.0 - 10.2.255.255,255.255.224.0,10.2.230.250,10.200.1.11,"Wing 4 Left, Floor 0,1"
+14,Hostel 02,"Wing 4 Left, Floor 2",10.2.224.0 - 10.2.255.255,255.255.224.0,10.2.230.250,10.200.1.11,"Wing 4 Left, Floor 2"
+15,Hostel 02,"Wing 4 Right, Floor 0,1",10.2.192.0 - 10.2.223.255,255.255.224.0,10.2.200.250,10.200.1.11,"Wing 4 Right, Floor 0,1"
+16,Hostel 02,"Wing 4 Right, Floor 2",10.2.192.0 - 10.2.223.255,255.255.224.0,10.2.200.250,10.200.1.11,"Wing 4 Right, Floor 2"
